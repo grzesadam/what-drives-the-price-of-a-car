@@ -1,0 +1,8 @@
+[project]
+name = "what-drives-the-price-of-a-car"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.14"
+dependencies = [
+    "pandas>=3.0.1",
+]
